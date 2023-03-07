@@ -1,0 +1,101 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(8, 41, 56);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+header {
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    margin: 100px;
+    border-radius: 50px;
+}
+
+header > h1 {
+    color: rgb(8, 41, 56);
+    font-size: 60px;
+}
+
+.scores {
+    font-size: 25px;
+    margin-bottom: 100px;
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    color: white;
+}
+
+#player-label {
+    background-color: rgb(182, 182, 32);
+    border-radius: 5px;
+    padding: 5px;
+}
+
+#computer-label {
+    background-color: rgb(182, 182, 32);
+    border-radius: 5px;
+    padding: 5px;
+}
+
+img {
+    height: 140px;
+    border-radius: 50px;
+}
+
+.choices {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+
+.choice {
+    border: 6px solid rgb(16, 113, 158);
+    border-radius: 50px;
+    background: white;
+    margin-bottom: 50px;
+}
+
+.choice:hover {
+    cursor: pointer;
+}
+
+.responses, .player-won, .computer-won {
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+
+.player-won {
+    color: rgb(21, 202, 21);
+}
+
+.computer-won {
+    color: rgb(255, 0, 0);
+}
+
+.restart {
+    margin-left: 875px;
+    margin-bottom: 50px;
+    border-radius: 8px;
+    font-size: 30px;
+    border: 2px solid rgb(18, 135, 153);
+    color: rgb(8, 41, 56);
+    background-color: white;
+    font-weight: bold;
+}
+
+.restart:hover {
+    color: white;
+    background-color: rgb(8, 41, 56);
+}
+
+.restart:active {
+    color: rgb(186, 160, 31);
+}

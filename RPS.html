@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <link rel="stylesheet" href="/Rock Paper Scissors/RPS-style.css">
+</head>
+<body>
+  <header>
+    <h1>Rock Paper Scissors</h1>
+  </header>
+
+  <div class="scores">
+    <div id="player-label">You</div>
+    <span id="userScore">0</span>:<span id="computerScore">0</span>
+    <div id="computer-label">Comp</div>
+  </div>
+
+  <div class="choices">
+    <div class="choice" id="r">
+      <img src="/Rock Paper Scissors/rock.webp" alt="">
+    </div>
+    
+    <div class="choice" id="p">
+      <img src="/Rock Paper Scissors/paper.png" alt="">
+    </div>
+  
+    <div class="choice" id="s">
+      <img src="/Rock Paper Scissors/scissors.jpg" alt="">
+    </div>
+  </div>
+
+  <button class="restart" onclick="restartGame()">restart game</button>
+
+  <p class="responses"></p>
+
+  <h2 class="player-won"></h2>
+  <h2 class="computer-won"></h2>
+
+  <script src="/Rock Paper Scissors/RPS.js"></script>
+</body>
+</html>
+</html>
