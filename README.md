@@ -4,4 +4,4 @@
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/klein528/Rock-Paper-Scissors) ![GitHub issues](https://img.shields.io/github/issues-raw/klein528/Rock-Paper-Scissors)
 
 <h1>Installation</h1>
-clone the repostetorie by: git clone https://github.com/klein528/Rock-Paper-Scissors
+Clone the repository by: git clone https://github.com/klein528/Rock-Paper-Scissors
