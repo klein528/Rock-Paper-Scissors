@@ -5,5 +5,3 @@
 
 <h1>Installation</h1>
 Clone the repository by: git clone https://github.com/klein528/Rock-Paper-Scissors
-
-👨‍💻
