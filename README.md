@@ -7,8 +7,8 @@
 Clone the repository by: git clone https://github.com/klein528/Rock-Paper-Scissors
 
 <h1>Usage</h1>
-You can choose between the three symbols.
+<p>You can choose between the three symbols.</p>
 
-The game has five rounds.
+<p>The game has five rounds.</p>
 
-When the game is done you can click the reset button on the bottom and play again.
+<p>When the game is done you can click the reset button on the bottom and play again.</p>
