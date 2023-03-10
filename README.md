@@ -12,3 +12,6 @@ Clone the repository by: git clone https://github.com/klein528/Rock-Paper-Scisso
 <p>2. The game has five rounds.</p>
 
 <p>3. When the game is done you can click the reset button on the bottom and play again.</p>
+
+<h1>Contribution</h1>
+<p>Pull requests are welcomed. For major changes, please open an issue first to discuss what you would like to change.</p>
