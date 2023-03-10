@@ -8,5 +8,7 @@ Clone the repository by: git clone https://github.com/klein528/Rock-Paper-Scisso
 
 <h1>Usage</h1>
 You can choose between the three symbols.
+
 The game has five rounds.
+
 When the game is done you can click the reset button on the bottom and play again.
