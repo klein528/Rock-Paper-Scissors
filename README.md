@@ -4,7 +4,9 @@
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/klein528/Rock-Paper-Scissors) ![GitHub issues](https://img.shields.io/github/issues-raw/klein528/Rock-Paper-Scissors)
 
 <h1>Installation</h1>
-Clone the repository by: git clone https://github.com/klein528/Rock-Paper-Scissors
+<p>You need to have git installed in your local mashine to use this type of installation</p>
+
+<p>Clone the repository by: git clone https://github.com/klein528/Rock-Paper-Scissors</p>
 
 <h1>Usage</h1>
 <p>1. You can choose between the three symbols.</p>
