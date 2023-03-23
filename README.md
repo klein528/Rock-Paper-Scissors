@@ -1,4 +1,4 @@
-![Rock-Paper-Scissors (1)](https://user-images.githubusercontent.com/88459146/223828127-7f2217af-1bfa-4131-bd29-1378448d7077.png)
+![Screenshot from 2023-03-23 22-01-42](https://user-images.githubusercontent.com/88459146/227360055-3b4d6ddd-e12e-4859-8fd0-3be74a3c4309.png)
 
 
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/klein528/Rock-Paper-Scissors) ![GitHub issues](https://img.shields.io/github/issues-raw/klein528/Rock-Paper-Scissors)
